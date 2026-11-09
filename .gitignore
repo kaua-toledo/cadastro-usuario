@@ -4,6 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Sistema Operacional (Recomendado adicionar)
+.DS_Store
+Thumbs.db
+
 ### STS ###
 .apt_generated
 .classpath
